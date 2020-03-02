@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    font-size: 25px;
+}
+body{
+    background-color: black;
+}
+.div_1{
+    background-color: red;
+    height: 442px;
+    width: 50%;
+    margin: 258px 0px 0px 882px;
+}
+
+
+input:checked + span{
+    text-decoration: line-through;
+}
+.bad{
+    height: 60px;
+    width: 400px;
+    margin: 71px 0px 0px 660px;
+    border-radius: 53px;
+}
+.bad1{
+    height: 50px;
+    width: 400px;
+    margin: 10px 0px 0px 660px;
+    border-radius: 26px;
+    background-color: red;
+}
+.bad2{
+    margin: 10px 0px 0px 716px;
+    height: 60px;
+    width: 40px;
+}
+.bad3{
+    margin: 24px 0px 0px 10px;
+    position: absolute;
+    color: red;
+}
